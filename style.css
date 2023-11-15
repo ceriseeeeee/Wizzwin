@@ -1,0 +1,72 @@
+h2 {
+
+  color: rgb(255, 255, 255);
+
+}
+
+h3 {
+
+  color: rgb(255, 255, 255);
+
+}
+
+body {
+
+font: 75% georgia, sans-serif;
+
+line-height: 1.88889;
+
+color: #ffffff;
+
+  background: #ffffff url('https://i.pinimg.com/564x/be/0d/3b/be0d3bebc199a4bc5dd0b51b348287e6.jpg') no-repeat;
+
+  background-size: 100%;
+
+margin: 0;
+
+padding: 0;
+
+
+
+}
+
+div.space{
+
+  margin:0px;
+
+  padding-left:200px;
+
+  padding-top: 200px;
+
+  padding-bottom: 150px;
+
+  padding-right: 150px;
+
+}
+
+.navbar-nav {
+
+  flex-direction: column;
+
+}
+
+
+
+.navbar-nav .nav-item {
+
+  width: 100%; /* Ajustez la largeur selon vos besoins */
+
+  height:400%;
+
+  text-align: center; /* Centrez le texte dans chaque élément */
+
+}
+
+
+
+.navbar-nav .nav-link {
+
+  padding: 10px; /* Ajoutez de l'espace autour du texte */
+
+}
+
